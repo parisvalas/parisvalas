@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paris!
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Javascript & Svelte
+- 🌱 I’m currently learning Javascript
